@@ -1,0 +1,16 @@
+.car {
+  padding: 2rem 0;
+}
+.car img {
+  height: 90vh;
+  object-fit: cover;
+}
+.thumbs-wrapper {
+  display: none;
+}
+.carousel-status {
+  display: none;
+}
+/* .control-dots {
+  display: none;
+} */
